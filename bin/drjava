@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# *************************************************
+# Wrapper for using DrJava
+# Last edited: September 18, 2011
+# *************************************************
+
+jar=~/coursera/alg-part1/drjava.jar
+java -jar ${jar}
